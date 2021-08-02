@@ -30,13 +30,13 @@
  <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gabriel-donato-65b075215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://twitter.com/Tiodonalt" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
- <div>
-<img align="right" alt="Gabriel-keyboard" src="https://64.media.tumblr.com/af89aa3263f02befa328e49e739c6876/tumblr_pp4vk18ywV1y8w6bmo1_500.gifv">
- </div>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ <div>
+<img align="right" alt="Gabriel-keyboard" src="https://64.media.tumblr.com/af89aa3263f02befa328e49e739c6876/tumblr_pp4vk18ywV1y8w6bmo1_500.gifv">
+ </div>
 
 
 
