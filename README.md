@@ -10,8 +10,8 @@
 
  <div>
   <a href="https://github.com/gabrielcdonato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcdonato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcdonato&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcdonato&show_icons=true&theme=jolly &include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcdonato&layout=compact&langs_count=7&theme=jolly "/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
