@@ -7,6 +7,8 @@
 - 🤔 I’m looking for help with Kotlin
 - 📫 How to reach me: gabrielcdonato@gmail.com
 - ⚡ Fun fact: I go to the gym
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcdonato&theme=dark&show_icons=true)
+
 
 
   
