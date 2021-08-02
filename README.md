@@ -1,4 +1,5 @@
-### Hi i m Gabriel, Welcome ☕
+### Hi i m Gabriel, Welcome 
+<img align="right" width="50%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
 
 <img src="https://komarev.com/ghpvc/?username=gabrielcdonato&color=blue" alt="gabrielcdonato" /> 
 
