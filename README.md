@@ -36,7 +36,7 @@
  
 </div>
  <div>
-<img align="right" alt="Gabriel-keyboard" src="https://64.media.tumblr.com/af89aa3263f02befa328e49e739c6876/tumblr_pp4vk18ywV1y8w6bmo1_500.gifv">
+<img align="right" alt="Gabriel-keyboard" src="https://66.media.tumblr.com/def15f7a0ed1703e601412f567885c95/tumblr_pbie6nTj1m1wzl06zo1_500.gif">
  </div>
 
 
