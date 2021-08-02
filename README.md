@@ -1,6 +1,6 @@
 <h1> Hi! I'm Gabriel <img src="https://64.media.tumblr.com/a77fe63f35eafbe14be38765babf1cb2/ec4eb63d77592970-8f/s1280x1920/cb3343c17d8b4e6010ca747520d078d3dba9ac25.gifv" width="40"></h1>
 
-<img align="right" width="30%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
+<img align="right" width="30%" src="https://giphy.com/gifs/GDevs-android-developer-summit-llarwdtFqG63IlqUR1">
 
 <img src="https://komarev.com/ghpvc/?username=gabrielcdonato&color=blue" alt="gabrielcdonato" /> 
 
