@@ -8,9 +8,11 @@
 - 📫 How to reach me: gabrielcdonato@gmail.com
 - ⚡ Fun fact: I go to the gym
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcdonato&theme=tokyonight&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcdonato)](https://github.com/anuraghazra/github-readme-stats)
+ <div>
+  <a href="https://github.com/gabrielcdonato">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcdonato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcdonato&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 
 
