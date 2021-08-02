@@ -36,6 +36,10 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+##
+
+
  <div>
 <img align="right" alt="Gabriel-keyboard" src="https://66.media.tumblr.com/def15f7a0ed1703e601412f567885c95/tumblr_pbie6nTj1m1wzl06zo1_500.gif">
  </div>
