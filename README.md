@@ -41,7 +41,7 @@
 
 
  <div>
-<img align="right" alt="Gabriel-keyboard" src="https://66.media.tumblr.com/def15f7a0ed1703e601412f567885c95/tumblr_pbie6nTj1m1wzl06zo1_500.gif">
+<img align="right" alt="Gabriel-keyboard" src="https://media1.tenor.com/images/47d3a03b320b0e77f741d401ff9bdcb2/tenor.gif?itemid=15747325">
  </div>
 
 
