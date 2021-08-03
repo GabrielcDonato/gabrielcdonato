@@ -4,11 +4,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=gabrielcdonato&color=blue" alt="gabrielcdonato" /> 
 
-- I’m currently working on Android Developer
-- I’m currently learning Kotlin
-- I’m looking for help with Kotlin
-- How to reach me: gabrielcdonato@gmail.com
-- Fun fact: I go to the gym
+- 💻 I’m currently working on Android Developer
+- 🧠 I’m currently learning Kotlin
+- 🤝 I’m looking for help with Kotlin
+- 📩 How to reach me: gabrielcdonato@gmail.com
+- 😆 Fun fact: I go to the gym
 
  <div>
   <a href="https://github.com/gabrielcdonato">
