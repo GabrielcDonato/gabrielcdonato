@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=gabrielcdonato&color=blue" alt="gabrielcdonato" /> 
 
-- <img align="center" alt="Gabriel-Mobile" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> I’m currently working on Mobile Development 
+- 💻 I’m currently working on Mobile Development with <img align="center" alt="Gabriel-Mobile" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> 
 - 🧠 I’m currently learning Kotlin <img align="center" alt="Gabriel-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 - 🤝 I’m looking for help with Kotlin
 - 📩 How to reach me: gabrielcdonato@gmail.com
