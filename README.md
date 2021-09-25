@@ -6,7 +6,7 @@
 
 - 💻 I’m currently working on Mobile Development with Flutter
 - 🧠 I’m currently learning Kotlin 
-- 🤝 I’m looking for help with Kotlin
+- 🤝 I’m looking for help with Android Development <img align="center" alt="Gabriel-Mobile" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"> 
 - 📩 How to reach me: gabrielcdonato@gmail.com
 - 😆 Fun fact: I go to the gym
 
