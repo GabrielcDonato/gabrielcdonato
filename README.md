@@ -1,5 +1,5 @@
 <h1> Hi! I'm Gabriel </h1>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <img align="right" width="30%" src="https://i.pinimg.com/originals/f1/bc/3a/f1bc3a9ed4f836e92a33fc6b130db188.gif">
 
 <img src="https://komarev.com/ghpvc/?username=gabrielcdonato&color=blue" alt="gabrielcdonato" /> 
@@ -39,6 +39,8 @@
 
 ##
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gabrielcdonato" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabrielcdonato?trk=profile-badge">Gabriel Donato</a></div>
+              
 
  <div>
 <img align="right" alt="Gabriel-keyboard" src="https://media1.tenor.com/images/47d3a03b320b0e77f741d401ff9bdcb2/tenor.gif?itemid=15747325">
