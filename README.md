@@ -38,11 +38,7 @@
 
 ##
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gabrielcdonato" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabrielcdonato?trk=profile-badge">Gabriel Donato</a> 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-</div>
               
-
  <div>
 <img align="right" alt="Gabriel-keyboard" src="https://media1.tenor.com/images/47d3a03b320b0e77f741d401ff9bdcb2/tenor.gif?itemid=15747325">
  </div>
