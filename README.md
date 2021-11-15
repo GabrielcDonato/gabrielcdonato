@@ -1,5 +1,5 @@
 <h1> Hi! I'm Gabriel </h1>
-<img align="right" width="30%" src="https://i.pinimg.com/originals/f1/bc/3a/f1bc3a9ed4f836e92a33fc6b130db188.gif">
+<img align="right" width="30%" src="https://cdn.discordapp.com/attachments/896197626775629875/905522447384735794/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57734a7a5846384d38746c36772f67697068792e676966.gif">
 
 <img src="https://komarev.com/ghpvc/?username=gabrielcdonato&color=blue" alt="gabrielcdonato" /> 
 
