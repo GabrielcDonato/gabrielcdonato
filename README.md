@@ -6,7 +6,7 @@
 - 💻 I’m currently working on Mobile Development with <code>Flutter</code>  <img align="center" alt="Gabriel-Mobile" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 - 🧠 I’m currently learning <code>React-Native</code>  <img align="center" alt="Gabriel-Mobile" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
 - 🤝 I’m looking for help with <code>Android Development</code> <img align="center" alt="Gabriel-Mobile" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"> 
-- 📩 How to reach me:  gabrielcdonato@gmail.com or <code>My Linkedin</code> www.linkedin.com/in/gabrielcdonato
+- 📩 How to reach me:  gabrielcdonato@gmail.com or <p><code>My Linkedin</code> <img align="center" alt="Gabriel-Mobile" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> www.linkedin.com/in/gabrielcdonato</p>
 - 😆 Fun fact: I go to the gym
  <div>
   <a href="https://github.com/gabrielcdonato">
