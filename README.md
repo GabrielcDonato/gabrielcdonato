@@ -1,12 +1,16 @@
 <h1> Hi! I'm Gabriel </h1>
+
 <img align="right" width="35%" src="https://cdn.discordapp.com/attachments/896197626775629875/905522447384735794/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57734a7a5846384d38746c36772f67697068792e676966.gif">
 
 <img src="https://komarev.com/ghpvc/?username=gabrielcdonato&color=blue" alt="gabrielcdonato" /> 
 
 - 💻 I’m currently working on Mobile Development with <code>Flutter</code>  <img align="center" alt="Gabriel-Mobile" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+- 
 - 🧠 I’m currently learning <code>React-Native</code>  <img align="center" alt="Gabriel-Mobile" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
+- 
 - 🤝 I’m looking for help with <code>Android Development</code> <img align="center" alt="Gabriel-Mobile" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"> 
-- 📩 How to reach me: gabrielcdonato@gmail.com or my linkedin www.linkedin.com/in/gabrielcdonato
+- 
+- 📩 How to reach me:  gabrielcdonato@gmail.com or <code>My Linkedin</code> www.linkedin.com/in/gabrielcdonato
 
 - 😆 Fun fact: I go to the gym
  <div>
@@ -29,9 +33,13 @@
  
 <div> 
   <a href="https://www.youtube.com/channel/UCQbRpudY7eSjazJWePJnCnQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 
   <a href="https://instagram.com/g_donalt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 
   <a href="https://www.linkedin.com/in/gabrielcdonato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 <a href="https://twitter.com/Tiodonalt" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
