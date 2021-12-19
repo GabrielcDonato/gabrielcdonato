@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=gabrielcdonato&color=blue" alt="gabrielcdonato" /> 
 
 - 💻 I’m currently working on Mobile Development with <code> Flutter </code>
-- 🧠 I’m currently learning <code> React-Native </code> <img align="center" alt="Gabriel-Mobile" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
+- 🧠 I’m currently learning <code> React-Native </code>  <img align="center" alt="Gabriel-Mobile" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
 - 🤝 I’m looking for help with Android Development <img align="center" alt="Gabriel-Mobile" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"> 
 - 📩 How to reach me: gabrielcdonato@gmail.com
 - 😆 Fun fact: I go to the gym
