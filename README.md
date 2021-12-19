@@ -2,15 +2,16 @@
 
 <img align="right" width="35%" src="https://cdn.discordapp.com/attachments/896197626775629875/905522447384735794/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57734a7a5846384d38746c36772f67697068792e676966.gif">
 <img src="https://komarev.com/ghpvc/?username=gabrielcdonato&color=blue" alt="gabrielcdonato" /> 
+
 - 💻 I’m currently working on Mobile Development with <code>Flutter</code>  <img align="center" alt="Gabriel-Mobile" height="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 - 🧠 I’m currently learning <code>React-Native</code>  <img align="center" alt="Gabriel-Mobile" height="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
 - 🤝 I’m looking for help with <code>Android Development</code> <img align="center" alt="Gabriel-Mobile" height="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"> 
 - 📩 How to reach me:  gabrielcdonato@gmail.com or <code>My Linkedin</code> www.linkedin.com/in/gabrielcdonato
 - 😆 Fun fact: I go to the gym
-- 
  <div>
   <a href="https://github.com/gabrielcdonato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcdonato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcdonato&layout=compact"/>
 
 <h1> Language and Tools:</h1>
