@@ -7,8 +7,8 @@
 - 🧠 I’m currently learning <code>React-Native</code>  <img align="center" alt="Gabriel-Mobile" height="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
 - 🤝 I’m looking for help with <code>Android Development</code> <img align="center" alt="Gabriel-Mobile" height="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"> 
 - 📩 How to reach me:  gabrielcdonato@gmail.com or <code>My Linkedin</code> www.linkedin.com/in/gabrielcdonato
-- 
 - 😆 Fun fact: I go to the gym
+- 
  <div>
   <a href="https://github.com/gabrielcdonato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcdonato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
