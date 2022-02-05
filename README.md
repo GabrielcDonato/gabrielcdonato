@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=gabrielcdonato&color=blue" alt="gabrielcdonato" /> 
 
 - 💻 I’m currently working on Mobile Development with <code>Flutter</code>  <img align="center" alt="Gabriel-Mobile" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-- 🧠 I’m currently learning <code>React-Native</code>  <img align="center" alt="Gabriel-Mobile" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
+<!-- - 🧠 I’m currently learning <code>React-Native</code>  <img align="center" alt="Gabriel-Mobile" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">  -->
 - 🤝 I’m looking for help with <code>Android Development</code> <img align="center" alt="Gabriel-Mobile" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"> 
 - 📩 How to reach me:  gabrielcdonato@gmail.com or <p><code>My Linkedin</code> <img align="center" alt="Gabriel-Mobile" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> www.linkedin.com/in/gabrielcdonato</p>
 - 😆 Fun fact: I go to the gym
@@ -20,9 +20,9 @@
   <img align="center" alt="Gabriel-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Gabriel-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Gabriel-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<!--   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
   <img align="center" alt="Gabriel-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Gabriel-Aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+<!--   <img align="center" alt="Gabriel-Aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"> -->
 </div>
   
   ##
